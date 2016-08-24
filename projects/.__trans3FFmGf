@@ -76,11 +76,11 @@
 </p>
       
         <h2><a href="../projects/model-manager/">Model Manager</a></h2>
-        <p><p>A command line tool to import Omni4D models from <a href="https://en.wikipedia.org/wiki/YAML">YAML</a> files into a database implementation.</p>
+        <p><p>A command line tool to import 4D models from <a href="https://en.wikipedia.org/wiki/YAML">YAML</a> files into a database implementation.</p>
 </p>
       
         <h2><a href="../projects/graphstore/">Graphstore</a></h2>
-        <p><p>A relational database implementation of an Omni4D model with a RESTful api.</p>
+        <p><p>A relational database implementation of a 4D model with a RESTful api.</p>
 </p>
       
     </div>
