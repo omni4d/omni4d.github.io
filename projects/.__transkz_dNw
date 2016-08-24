@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-    <title>Community — Omni4d</title>
+    <title>Projects — Omni4d</title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -41,11 +41,11 @@
             
             <li><a href="../4d-models/">4D Models</a></li>
             
-            <li><a href="../projects/">Projects</a></li>
+            <li class="active"><a href="../projects/">Projects</a></li>
             
             <li><a href="../contributing/">Contributing</a></li>
             
-            <li class="active"><a href="../community/">Community</a></li>
+            <li><a href="../community/">Community</a></li>
             
             <li><a href="../news/">News</a></li>
             
@@ -60,8 +60,8 @@
       
   <div class="jumbotron">
       <div class="container">
-        <h1>Community</h1>
-        <p><p>Who we are and how we are organised</p>
+        <h1>Projects</h1>
+        <p><p>A list of the Omni4d projects and an explanation of what each is about.</p>
 </p>
     </div>
   </div>
@@ -72,9 +72,16 @@
     <div class="col-sm-12 col-md-8">
       
       
-        <h2><a href="../community/code-of-conduct/">Code of Conduct</a></h2>
-        <p><p>All members of the Omni4d team are expected to adhere to our code of conduct.<br>
-Please take a moment or two to read it.</p>
+        <h2><a href="../projects/model/">Model</a></h2>
+        <p><p>4D model definitions within YAML files</p>
+</p>
+      
+        <h2><a href="../projects/model-manager/">Model Manager</a></h2>
+        <p><p>A command line tool to import 4D models into a database implementation.</p>
+</p>
+      
+        <h2><a href="../projects/graphstore/">Graphstore</a></h2>
+        <p><p>A relational database implementation of a 4D model with a RESTful api.</p>
 </p>
       
     </div>
