@@ -18,3 +18,9 @@ body {
 .gitter-chat-embed{
   z-index: 5000;
 }
+
+.sidebar {
+  padding: 1rem;
+  background-color: #eceeef;
+  border-radius: 1rem;
+}
