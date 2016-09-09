@@ -7,7 +7,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 
     <title>
-  Introduction
+  About
  — Omni4D</title>
 
     <!-- Bootstrap CSS -->
@@ -41,17 +41,17 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             
-            <li><a href="../../models/">Models</a></li>
+            <li><a href="../models/">Models</a></li>
             
-            <li><a href="../../projects/">Projects</a></li>
+            <li><a href="../projects/">Projects</a></li>
             
-            <li><a href="../../contributing/">Contributing</a></li>
+            <li><a href="../contributing/">Contributing</a></li>
             
-            <li><a href="../../community/">Community</a></li>
+            <li><a href="../community/">Community</a></li>
             
-            <li><a href="../../news/">News</a></li>
+            <li><a href="../news/">News</a></li>
             
-            <li class="active"><a href="../../about/">About</a></li>
+            <li class="active"><a href="../about/">About</a></li>
             
           </ul>
         </div>
@@ -64,8 +64,8 @@
   
     <div class="jumbotron">
         <div class="container">
-          <h1>Introduction</h1>
-          <p><p>What's our purpose? What problem(s) are we trying to dissolve? What makes us think we might have a means for dissolution?</p>
+          <h1>About</h1>
+          <p><p>What's this all about</p>
 </p>
       </div>
     </div>
@@ -85,15 +85,21 @@
         </div>
     
 
-      <h1>Our purpose</h1>
-<p>We are aiming to create a framework that enables the real world to be far better represented in computer systems. Currently, there are significant limitations to way that 'things' are represented and a similar degree of limitation to the way time is handled. Couple these limitations together and we have a degree of representation imperfection that is no longer warranted and shouldn't be tolerated.</p>
-<p>Computing technology is now in a state that we believe allows us to contemplate a step change in the way that we describe real objects and change events. Such a step change might well be referred to as a paradigm shift but we're not going to claim that sort of territory as yet: time will tell. However, we do believe that the change of approach and the resulting 'way of doing' that we're aiming for could well land us all in a paradigm shift.</p>
-<p>We draw on the work of Chris Partridge in particular and most immediately, as well as much experience in attempts at meeting information needs in the face of a continuously changing world. No doubt as we go through time, our list of acknowledgements will grow and we will endeavour not to leave anyone off the list. We expect to face large numbers of challenges - creating 'a better way' is hard work, always attracts counter-forces and maybe we get some luck along the way too..</p>
-<h1>Problem dissolution</h1>
-<p>Formal problem solving techniques identify three types of problem elimination, each of which more completely prevents a problem resurfacing.</p>
-
+      
       
     
+        
+            <h2><a href="../about/about_intro/">Introduction</a></h2>
+            <p><p>What's our purpose? What problem(s) are we trying to dissolve? What makes us think we might have a means for dissolution?</p>
+</p>
+        
+            <h2><a href="../about/about_history/">History</a></h2>
+            <p><p>From Aristotle to van Orman Quine via Frege, Cantor and Einstein. The history of how 4D modelling was developed.</p>
+</p>
+        
+            <h2><a href="../about/intro_ethos/">Ethos</a></h2>
+            <p><p>The way we behave...and what we do if we don't</p>
+</p>
         
     
 
